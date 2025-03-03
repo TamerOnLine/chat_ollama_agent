@@ -4,10 +4,10 @@
 This project is an AI-powered agent built using **LangChain**, integrating **Ollama** for natural language processing and automation. It allows users to retrieve **weather information**, **stock prices**, and **engage in general conversations** through an intelligent query system.
 
 ## Features
-- 📌 **Weather Forecasting**: Fetches live weather updates using OpenWeather API.
-- 📌 **Stock Price Retrieval**: Retrieves stock market data via Yahoo Finance.
-- 📌 **General Query Handling**: If no specific tool matches the query, an AI chatbot (Ollama) responds dynamically.
-- 📌 **Error Handling & Logging**: Ensures a robust system with proper logging and exception handling.
+- **Weather Forecasting**: Fetches live weather updates using OpenWeather API.
+- **Stock Price Retrieval**: Retrieves stock market data via Yahoo Finance.
+- **General Query Handling**: If no specific tool matches the query, an AI chatbot (Ollama) responds dynamically.
+- **Error Handling & Logging**: Ensures a robust system with proper logging and exception handling.
 
 ## Installation
 
@@ -70,9 +70,9 @@ Ensure you have the following installed:
 - **Requests**: For making API calls.
 
 ## Future Enhancements
-🔹 **Add GUI for better user interaction**
-🔹 **Support more APIs (e.g., news, cryptocurrency)**
-🔹 **Enhance stock price analysis with historical trends**
+- **Add GUI for better user interaction**
+- **Support more APIs (e.g., news, cryptocurrency)**
+- **Enhance stock price analysis with historical trends**
 
 ## License
 MIT License. Feel free to contribute and improve!
@@ -82,3 +82,4 @@ Developed by **Tamer Hamad Faour**.
 
 ---
 🚀 Feel free to fork, improve, and suggest enhancements!
+
